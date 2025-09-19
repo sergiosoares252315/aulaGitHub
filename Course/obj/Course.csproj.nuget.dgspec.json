@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/Course.csproj": {}
+    "/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/aulaGitHub/Course/Course.csproj": {}
   },
   "projects": {
-    "/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/Course.csproj": {
+    "/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/aulaGitHub/Course/Course.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/Course.csproj",
+        "projectUniqueName": "/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/aulaGitHub/Course/Course.csproj",
         "projectName": "Course",
-        "projectPath": "/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/Course.csproj",
+        "projectPath": "/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/aulaGitHub/Course/Course.csproj",
         "packagesPath": "/home/sergio-soares/.nuget/packages/",
-        "outputPath": "/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/obj/",
+        "outputPath": "/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/aulaGitHub/Course/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/sergio-soares/.nuget/NuGet/NuGet.Config"
