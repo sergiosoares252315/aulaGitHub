@@ -1,0 +1,14 @@
+/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/bin/Debug/net8.0/Course
+/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/bin/Debug/net8.0/Course.deps.json
+/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/bin/Debug/net8.0/Course.runtimeconfig.json
+/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/bin/Debug/net8.0/Course.dll
+/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/bin/Debug/net8.0/Course.pdb
+/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/obj/Debug/net8.0/Course.GeneratedMSBuildEditorConfig.editorconfig
+/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/obj/Debug/net8.0/Course.AssemblyInfoInputs.cache
+/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/obj/Debug/net8.0/Course.AssemblyInfo.cs
+/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/obj/Debug/net8.0/Course.csproj.CoreCompileInputs.cache
+/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/obj/Debug/net8.0/Course.dll
+/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/obj/Debug/net8.0/refint/Course.dll
+/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/obj/Debug/net8.0/Course.pdb
+/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/obj/Debug/net8.0/Course.genruntimeconfig.cache
+/home/sergio-soares/Documentos/Curso_C#/CursoC#_3/ProjetoGitHubDictionary/Course/obj/Debug/net8.0/ref/Course.dll
